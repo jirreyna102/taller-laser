@@ -1,0 +1,29 @@
+{
+ "name": "Taller Láser · Sublimarte",
+ "short_name": "Taller Láser",
+ "description": "Recetas, calibración, diseño, producción y operación del taller láser ATOMSTACK A10 Pro V2.",
+ "lang": "es-MX",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f4f6fa",
+ "theme_color": "#1d4ed8",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
